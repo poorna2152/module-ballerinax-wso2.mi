@@ -1,4 +1,4 @@
-import ballerinax/mi;
+import ballerinax/wso2.mi;
 
 @mi:ConnectorInfo {
 }
